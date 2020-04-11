@@ -1,0 +1,15 @@
+Document Object Model
+
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Hello!</title>
+  </head>
+  <body>
+    Hello, world!
+  </body>
+</html>
+
+html -> head -> title -> Hello!
+     -> body -> Hello, world!
