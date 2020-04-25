@@ -1,5 +1,6 @@
  - GIT: Versioning code, deploy from local machine
  - HTML/CSS: SAS
+ Look at css and html doc
  - FLASK: Micro-framework(Python)
  - SQL: Structured Query Language, db to store actual data, complex queries
  - APIs: Application Programming Interfaces(Own/3rd party)(Data feeds and
@@ -17,3 +18,13 @@
  - Project 2
  - Project 3
  - Final Project
+
+
+ Responsive Design:
+  Media queries:
+    Specific way of assigning CSS not to a particular HTML element, but to a
+    particular HTML on a particular type of media. So that type of media might
+    be particulary-sized computers, or particulary-sized phones, even the
+    difference between how you want a website to look when you are writing the
+    code for it to appear on a screen versus how you want the website to look if
+    someone prints it out, for example on a printer.
