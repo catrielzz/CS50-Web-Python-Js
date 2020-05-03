@@ -1,0 +1,14 @@
+Clase:
+    Clase igual molde
+
+Objetos:
+    Producto
+
+Ventajas OOP:
+    Reutilizar Codigo. 
+    Sistemas Complejos.
+    Facilita el Mantenimiento.
+
+
+Clases y Objetos 1:
+    
