@@ -4,4 +4,3 @@ CREATE TABLE flights (
     origin VARCHAR NOT NULL,
     destination VARCHAR NOT NULL,
     duration INTEGER NOT NULL
-);
